@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-This is a little intro about me
+Data Scientist in training with degrees in software engineering and economics.
 
 About Me
 ======
-This is more about me.
-
+I am currently working on my Master of Science degree in Data Science with Eastern University.
