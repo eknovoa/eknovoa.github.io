@@ -16,4 +16,4 @@ I imported the dataset from [Kaggle](https://www.kaggle.com/datasets/unsdsn/worl
 
 By looking at countries individually we can identify factors that may influence a country’s Happiness Score
 
-See project on [Tableau](https://public.tableau.com/app/profile/erin.novoa/viz/TheWorldsHappinessReport/Dashboard1)
+See full project on [Tableau](https://public.tableau.com/app/profile/erin.novoa/viz/TheWorldsHappinessReport/Dashboard1)
