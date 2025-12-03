@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download [resume]('files/EN_Resume.pdf').
+_Download [resume]('files/EN_Resume.pdf')._
 
 Education
 ======
