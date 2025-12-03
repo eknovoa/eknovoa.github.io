@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Hi, I'm Erin"
+title: "Hi, I'm Erin ✨"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Data Scientist in training with degrees in software engineering and economics.
+Data Scientist in training with bachelor degrees in software engineering and economics.
 
 About Me
 ======
