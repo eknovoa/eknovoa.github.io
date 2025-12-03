@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Download [resume]('files/EN_Resume.pdf').
+
 Education
 ======
 * M.S. in Data Science, Eastern University, 2027 (expected)
