@@ -1,6 +1,6 @@
 ---
 title: "The World's Happiness Report"
-excerpt: "Short description of portfolio item number 1<br/><img src='https://images.unsplash.com/photo-1509909756405-be0199881695?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600'>"
+excerpt: "<img src='https://images.unsplash.com/photo-1509909756405-be0199881695?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600'>"
 collection: portfolio
 ---
 
