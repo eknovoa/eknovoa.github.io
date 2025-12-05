@@ -9,6 +9,8 @@ Project: Analyze Marketing Campaign Performance (SQL)
 Project Overview
 In this SQL project from [InterviewMaster.ai](https://www.interviewmaster.ai/content/sql/projects/level1projects), I practiced creating a database and a table using __pgAdmin 4__ and imported a csv file. I then viewed the data using SQL and cleaned and standardized the data fields. After the data was ready to work with, I then began writing SQL queries to analyze the marketing campaign performance data to uncover trends and insights. I worked with real-world marketing data to evaluate campaign effectiveness and audience engagement.
 
+Data Source: Kaggle Dataset, found [here](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign/data)
+
 Learning Objectives
 - Write SQL queries to explore marketing campaign datasets
 - Clean and standardize data fields
