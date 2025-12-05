@@ -22,7 +22,7 @@ Data Source: Kaggle Dataset, found [here](https://www.kaggle.com/datasets/rodsal
 - Practice filtering and summarizing marketing data
 
 
-**Practice Questions:**
+**Practice Questions**
 
 - How many customer records are in the dataset?
 - How many customers accepted each of the five marketing campaigns?
