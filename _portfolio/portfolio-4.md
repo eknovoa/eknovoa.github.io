@@ -1,25 +1,24 @@
 ---
-title: "Healthcare Data Analysis"
-excerpt: "<img src='https://images.unsplash.com/photo-1505751172876-fa1923c5c528?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600'>"
+title: "Coffee Sales Dashboard"
+excerpt: "<img src='https://images.unsplash.com/photo-1497935586351-b67a49e012bf?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600'>"
 collection: portfolio
 ---
 
 **Goal**
 
-My intention behind this project was to practice importing data in Jupyter Notebook with the Python Library, Pandas, and conduct an analysis based on the dataset from Kaggle using Python and the following libraries: Pandas, NumPy, and Matplotlib.
+The goal behind this project was to build an interactive `Microsoft Excel` dashboard to allow users to identify trends in coffee bean sales and compare these sales across roast types and countries.
 
 **Process**
 
-I imported the dataset from Kaggle using Pandas, then I reviewed the data to better understand what the raw data meant. Then I cleaned the data, analyzed it, created a few visualizations, and wrote actionable insights.
+This project involved data cleaning to data transformation to creating actionable insights in the form of a dashboard in `Excel`.
 
-**Insights**
+**Highlights**
 
-I did find some actionable insights based on this data, such as:
+The end result was an interactive, dynamic dashboard with
 
-- Penicillin is the most commonly prescribed medicine and would be critical that hospitals make sure they have plenty of this drug in supply.
-- Females also have a higher percent chance of developing obesity and cancer according to this dataset. Having research studies and treatment plans for women separate from men would be beneficial.
+- advanced formulas & functions
+- pivot charts
+- multiple slicers
+- timeline filter
 
-These are just a few of the insights. I have more listed in the full report.
-
-
-See full project on [GitHub](https://github.com/eknovoa/python-data-analysis/blob/main/Healthcare%20Data%20Analysis.ipynb).
+See full project by downloading .xlsx file from my [GitHub](https://github.com/eknovoa/Excel-Projects/blob/main/coffeeOrdersDataProject.xlsx).

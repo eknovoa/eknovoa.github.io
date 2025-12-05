@@ -1,24 +1,19 @@
 ---
-title: "Coffee Sales Dashboard"
-excerpt: "<img src='https://images.unsplash.com/photo-1497935586351-b67a49e012bf?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600'>"
+title: "The World's Happiness Report"
+excerpt: "<img src='https://images.unsplash.com/photo-1509909756405-be0199881695?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600'>"
 collection: portfolio
 ---
 
 **Goal**
 
-The goal behind this project was to build an interactive `Microsoft Excel` dashboard to allow users to identify trends in coffee bean sales and compare these sales across roast types and countries.
+The purpose of this project was to identify factors that may influence a country’s Happiness Score. Factors such as GDP per capita, social support, life expectancy, freedom to make life choices, absence of corruption, and generosity potentially have an affect on the happiness score for countries.
 
 **Process**
 
-This project involved data cleaning to data transformation to creating actionable insights in the form of a dashboard in `Excel`.
+I imported the dataset from [Kaggle](https://www.kaggle.com/datasets/unsdsn/world-happiness), created each visualization, and combined all visualizations to make a dashboard using `Tableau`.
 
-**Highlights**
+**Insights**
 
-The end result was an interactive, dynamic dashboard with
+By looking at countries individually we can identify factors that may influence a country’s Happiness Score
 
-- advanced formulas & functions
-- pivot charts
-- multiple slicers
-- timeline filter
-
-See full project by downloading .xlsx file from my [GitHub](https://github.com/eknovoa/Excel-Projects/blob/main/coffeeOrdersDataProject.xlsx).
+See full project on [Tableau](https://public.tableau.com/app/profile/erin.novoa/viz/TheWorldsHappinessReport/Dashboard1)
