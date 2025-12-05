@@ -1,6 +1,6 @@
 ---
 title: "Marketing Campaign Analysis"
-excerpt: "<img src='https://unsplash.com/photos/multicolored-marketing-freestanding-letter-jyoSxjUE22g'>"
+excerpt: "<img src='https://images.unsplash.com/photo-1562577308-9e66f0c65ce5?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb'>"
 collection: portfolio
 ---
 
