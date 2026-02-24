@@ -9,17 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-_Download [resume](/files/EN_Resume.pdf)._
+_Download [resume](/files/ErinNovoa_Resume.pdf)._
 
 Education
 ======
-* M.S. in Data Science, Eastern University, 2027 (expected)
+* M.S. in Data Science, Eastern University, December 2026 (expected)
 * B.S. in Software Engineering, Western Governors University, May 2025
 * B.S. in Economics, Texas A&M University, 2016
 
 
 Work experience
 ======
+* __February 2026 - Present__, _Handshake AI Fellowship_, AI Trainer (Contract/Part-Time)
+  * Develop and evaluate prompts to assess the performance of large language models (LLMs)
+  * Analyze LLM outputs for accuracy, clarity, and depth contributing to the improvement of AI understanding of complex topics
+  * Conduct independent research to support prompt development and evaluation tasks
+
 * __July 2024 - May 2025__, _Western Governors University_, Peer Tutor Intern
   * Provided 1:1 tutoring support to over 50,000 students in the College of IT, specializing in programming concepts, software development, cybersecurity, career readiness, and other related topics while maintaining FERPA compliance
   * Facilitated discussions on effective study techniques, test-taking strategies, and overcoming challenges to enhance learning outcomes
@@ -67,9 +72,6 @@ Skills
 
 Certifications
 ======
-* CompTIA Security+
-* CompTIA A+
-* CompTIA Project+
 * AWS Cloud Practitioner
 
 
