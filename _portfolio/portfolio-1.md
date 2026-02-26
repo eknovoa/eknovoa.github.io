@@ -119,13 +119,13 @@ summary(txhousing_after_2010)
 boxplot(txhousing_after_2010$listings, horizontal = TRUE)
 ```
 
-![](TxHousing-Regression_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
+![](./images/boxplot1.png)<!-- -->
 
 ``` r
 boxplot(txhousing_after_2010$volume, horizontal = TRUE)
 ```
 
-![](TxHousing-Regression_files/figure-gfm/unnamed-chunk-6-2.png)<!-- -->
+![](./images/boxplot2.png)<!-- -->
 
 The data is heavily right-skewed due to larger cities like
 Houston/Dallas vs smaller markets. We can see the difference in the
@@ -206,7 +206,7 @@ barplot(height = sum_listings$listings[1:10] / 1000,
         ylab = "Total Listings (in Thousands)")
 ```
 
-![](TxHousing-Regression_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
+![](./images/barplot.png)<!-- -->
 
 The Texas housing market, the “Big Four” cities (Houston, Dallas, San
 Antonio, and Austin) account for a vast majority of the state’s
@@ -224,7 +224,7 @@ plot(txhousing_after_2010$listings, txhousing_after_2010$volume,
      main = "Number of Active Listings vs. Volume of Sales, 2010 - 2015")
 ```
 
-![](TxHousing-Regression_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
+![](./images/scatterplot1.png)<!-- -->
 
 There appears to be a positive correlation between the two quantitative
 variables.
@@ -267,7 +267,7 @@ plot(txhousing_after_2010$listings, txhousing_after_2010$volume,
 abline(model, col="red", lwd=2)
 ```
 
-![](TxHousing-Regression_files/figure-gfm/unnamed-chunk-11-1.png)<!-- -->
+![](./images/scatterplot2.png)<!-- -->
 
 However, is the linear model a good fit for these two variables and how
 well does it predict the outcome?
@@ -346,7 +346,7 @@ Texas housing market.
 plot(model, which = 1)
 ```
 
-![](TxHousing-Regression_files/figure-gfm/unnamed-chunk-14-1.png)<!-- -->
+![](./images/residuals.png)<!-- -->
 
 This model appears to have a fan shape indicating it is not very
 accurate for the Texas market as a whole. It is more accurate for small
@@ -360,7 +360,7 @@ higher numbers of active listings, as we saw in our barplot in section
 Between 2010 and 2015, the Texas housing market followed a predictable
 pattern: for every new listing added, the market generated on average
 approximately **\$46,987** in total volume. While this model is highly
-significant ($p < 2e^-16$), the $R^2$ of **0.634** suggests that
+significant (p < 2e^-16), the R^2 of **0.634** suggests that
 inventory alone doesn’t tell the whole story. Investors should look at
 listings as a ‘baseline’ indicator, but must supplement this with local
 economic or additional housing data to account for the remaining 36.6%
@@ -371,5 +371,5 @@ of market volatility.
 ## Future Project Expansion:
 
 Future iterations of this model could use **Multiple Regression** to see
-if adding another variable like, ‘Year’ improves the $R^2$ above 0.634.
+if adding another variable like, ‘Year’ improves the R^2 above 0.634.
 
