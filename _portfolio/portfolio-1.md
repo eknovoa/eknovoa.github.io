@@ -6,7 +6,7 @@ collection: portfolio
 
 
 **Predicting Market Activity: A Linear Regression Analysis of Texas Housing Inventory (2010 – 2015)**
-by: Erin Novoa
+*by: Erin Novoa*
 
 **Project Overview**
 
