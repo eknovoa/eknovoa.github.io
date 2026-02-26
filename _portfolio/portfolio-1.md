@@ -117,8 +117,7 @@ summary(txhousing_after_2010)
 ``` r
 boxplot(txhousing_after_2010$listings, horizontal = TRUE)
 ```
-
-![]("./images/boxplot1.png")
+<img width="672" height="480" alt="boxplot1" src="https://github.com/user-attachments/assets/952877aa-2815-4b5c-a0b2-816c40c0ee60" />
 
 ``` r
 boxplot(txhousing_after_2010$volume, horizontal = TRUE)
