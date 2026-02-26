@@ -20,7 +20,7 @@ Data Source: `txhousing` dataset built in `ggplot2` package in RStudio
 
 You can also view full project on my [GitHub](https://github.com/eknovoa/analysis_projects_in_R/blob/main/TXHousing_Regression.pdf).
 
-================
+---
 
 This project analyzes the relationship between housing inventory and
 market liquidity across Texas (2010–2015) using the `txhousing` dataset
