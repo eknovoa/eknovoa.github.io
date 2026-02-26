@@ -123,7 +123,8 @@ boxplot(txhousing_after_2010$listings, horizontal = TRUE)
 boxplot(txhousing_after_2010$volume, horizontal = TRUE)
 ```
 
-![](images/boxplot2.png)<!-- -->
+<img width="672" height="480" alt="boxplot2" src="https://github.com/user-attachments/assets/e2fa16b7-7e71-43f3-b436-e212f3fb0165" />
+
 
 The data is heavily right-skewed due to larger cities like
 Houston/Dallas vs smaller markets. We can see the difference in the
@@ -204,7 +205,8 @@ barplot(height = sum_listings$listings[1:10] / 1000,
         ylab = "Total Listings (in Thousands)")
 ```
 
-![](images/barplot.png)<!-- -->
+<img width="672" height="480" alt="barplot" src="https://github.com/user-attachments/assets/54870cce-d3b5-41b8-a4a9-6f2a4a82961a" />
+
 
 The Texas housing market, the “Big Four” cities (Houston, Dallas, San
 Antonio, and Austin) account for a vast majority of the state’s
@@ -222,7 +224,7 @@ plot(txhousing_after_2010$listings, txhousing_after_2010$volume,
      main = "Number of Active Listings vs. Volume of Sales, 2010 - 2015")
 ```
 
-![](images/scatterplot1.png)<!-- -->
+<img width="672" height="480" alt="scatterplot1" src="https://github.com/user-attachments/assets/46720bbc-3d41-4632-99d8-02f058f61461" />
 
 There appears to be a positive correlation between the two quantitative
 variables.
@@ -265,7 +267,7 @@ plot(txhousing_after_2010$listings, txhousing_after_2010$volume,
 abline(model, col="red", lwd=2)
 ```
 
-![](images/scatterplot2.png)<!-- -->
+<img width="672" height="480" alt="scatterplot2" src="https://github.com/user-attachments/assets/22de89c3-8966-4839-b54b-1c011330458d" />
 
 However, is the linear model a good fit for these two variables and how
 well does it predict the outcome?
@@ -344,7 +346,7 @@ Texas housing market.
 plot(model, which = 1)
 ```
 
-![](images/residuals.png)<!-- -->
+<img width="672" height="480" alt="residuals" src="https://github.com/user-attachments/assets/4a47c693-41e5-44e5-932b-f52f0bc40bea" />
 
 This model appears to have a fan shape indicating it is not very
 accurate for the Texas market as a whole. It is more accurate for small
