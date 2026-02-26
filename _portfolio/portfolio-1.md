@@ -118,13 +118,13 @@ summary(txhousing_after_2010)
 boxplot(txhousing_after_2010$listings, horizontal = TRUE)
 ```
 
-![](./images/boxplot1.png)
+![](images/boxplot1.png)
 
 ``` r
 boxplot(txhousing_after_2010$volume, horizontal = TRUE)
 ```
 
-![](./images/boxplot2.png)<!-- -->
+![](images/boxplot2.png)<!-- -->
 
 The data is heavily right-skewed due to larger cities like
 Houston/Dallas vs smaller markets. We can see the difference in the
@@ -205,7 +205,7 @@ barplot(height = sum_listings$listings[1:10] / 1000,
         ylab = "Total Listings (in Thousands)")
 ```
 
-![](./images/barplot.png)<!-- -->
+![](images/barplot.png)<!-- -->
 
 The Texas housing market, the “Big Four” cities (Houston, Dallas, San
 Antonio, and Austin) account for a vast majority of the state’s
@@ -223,7 +223,7 @@ plot(txhousing_after_2010$listings, txhousing_after_2010$volume,
      main = "Number of Active Listings vs. Volume of Sales, 2010 - 2015")
 ```
 
-![](./images/scatterplot1.png)<!-- -->
+![](images/scatterplot1.png)<!-- -->
 
 There appears to be a positive correlation between the two quantitative
 variables.
@@ -266,7 +266,7 @@ plot(txhousing_after_2010$listings, txhousing_after_2010$volume,
 abline(model, col="red", lwd=2)
 ```
 
-![](./images/scatterplot2.png)<!-- -->
+![](images/scatterplot2.png)<!-- -->
 
 However, is the linear model a good fit for these two variables and how
 well does it predict the outcome?
@@ -345,7 +345,7 @@ Texas housing market.
 plot(model, which = 1)
 ```
 
-![](./images/residuals.png)<!-- -->
+![](images/residuals.png)<!-- -->
 
 This model appears to have a fan shape indicating it is not very
 accurate for the Texas market as a whole. It is more accurate for small
