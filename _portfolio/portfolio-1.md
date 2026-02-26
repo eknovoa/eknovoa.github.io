@@ -4,9 +4,8 @@ excerpt: "<img src='https://images.unsplash.com/flagged/photo-1558954157-aa76c0d
 collection: portfolio
 ---
 
-
-**Predicting Market Activity: A Linear Regression Analysis of Texas Housing Inventory (2010 – 2015)**
 *by: Erin Novoa*
+
 
 **Project Overview**
 
@@ -119,7 +118,7 @@ summary(txhousing_after_2010)
 boxplot(txhousing_after_2010$listings, horizontal = TRUE)
 ```
 
-![](./images/boxplot1.png)<!-- -->
+![](./images/boxplot1.png)
 
 ``` r
 boxplot(txhousing_after_2010$volume, horizontal = TRUE)
