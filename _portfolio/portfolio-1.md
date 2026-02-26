@@ -25,8 +25,8 @@ This project analyzes the relationship between housing inventory and
 market liquidity across Texas (2010–2015) using the `txhousing` dataset
 in the `ggplot2` package in R. I developed a linear regression model
 revealing that active listings explain 63.4% of sales volume variation
-($R^2 = 0.6342$), with each additional listing generating approximately
-\$46,987 in market value. While highly significant ($p < 0.001$),
+(R^2 = 0.6342), with each additional listing generating approximately
+\$46,987 in market value. While highly significant (p < 0.001),
 residual diagnostics indicate that market predictability is highest in
 small to mid-sized cities but faces increased volatility in high-growth
 metropolitan hubs like Houston and Dallas.
@@ -118,7 +118,7 @@ summary(txhousing_after_2010)
 boxplot(txhousing_after_2010$listings, horizontal = TRUE)
 ```
 
-![](images/boxplot1.png)
+![]("./images/boxplot1.png")
 
 ``` r
 boxplot(txhousing_after_2010$volume, horizontal = TRUE)
