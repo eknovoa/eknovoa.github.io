@@ -1,16 +1,16 @@
 ---
-title: "Predicting Market Activity: A Linear Regression Analysis of Texas Housing Inventory (2010–2015)"
+title: "Predicting Market Activity: A Linear Regression Analysis of Texas Housing Inventory (2010 – 2015)"
 excerpt: "<img src='https://images.unsplash.com/flagged/photo-1558954157-aa76c0d246c6?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'>"
 collection: portfolio
 ---
 
 
-**Predicting Market Activity: A Linear Regression Analysis of Texas Housing Inventory (2010–2015)**
+**Predicting Market Activity: A Linear Regression Analysis of Texas Housing Inventory (2010 – 2015)**
 by: Erin Novoa
 
 **Project Overview**
 
-Data Source: txhousing dataset built in ggplot2 package in RStudio
+Data Source: `txhousing` dataset built in `ggplot2` package in RStudio
 
 **Objectives**
 - Exploratory Data Analysis
