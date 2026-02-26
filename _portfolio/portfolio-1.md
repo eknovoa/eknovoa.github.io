@@ -22,7 +22,7 @@ You can also view full project on my [GitHub](https://github.com/eknovoa/analysi
 ---
 
 This project analyzes the relationship between housing inventory and
-market liquidity across Texas (2010–2015) using the `txhousing` dataset
+market liquidity across Texas (2010 – 2015) using the `txhousing` dataset
 in the `ggplot2` package in R. I developed a linear regression model
 revealing that active listings explain 63.4% of sales volume variation
 (R^2 = 0.6342), with each additional listing generating approximately
