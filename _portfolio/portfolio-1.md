@@ -245,10 +245,10 @@ To determine the validity of this model, I tested the following to see
 whether the slope for the linear regression model was different from
 zero:
 
-- $H_o: \beta_1 = 0$ and there is no relationship between listings and
+- H<sub>o</sub>: β<sub>1</sub> = 0 and there is no relationship between listings and
   volume
 
-- $H_a: \beta_1 \neq 0$ and there is a significant relationship between
+- H<sub>a</sub>: β<sub>1</sub> ≠ 0 and there is a significant relationship between
   listings and volume
 
 ## 3. The Model: Linear Regression
@@ -327,14 +327,14 @@ summary(model)
 
 **The Reliability of the Model:**
 
-Looking at the $R^2$ value, 0.6342, we can say that 63.4% of the
+Looking at the R^2 value, 0.6342, we can say that 63.4% of the
 variation in the total sales volume is explained by the number of
 listings. However, there is around 36.6% of the story still missing that
 likely comes from other factors that this model did not include.
 
 **The Statistical Significance:**
 
-Since the P-value is less than $2e^-16$, and it is less than 0.05 and
+Since the P-value is less than 2e^-16, and it is less than 0.05 and
 the slope was not equal to 0, we reject the Null Hypothesis. We believe
 we have convincing evidence that there is a statistical significance
 with the relationship between the listings and volume variables in the
