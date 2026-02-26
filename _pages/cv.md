@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-_Download [resume](/files/ErinNovoa_Resume.pdf)._
+_Download [resume](/files/ErinNovoa_AnalystResume.pdf)._
 
 Education
 ======
