@@ -1,4 +1,3 @@
-
 ---
 title: "Comparative Analysis of Texas Housing Markets (2010 - 2015)"
 excerpt: "<img src='https://images.unsplash.com/photo-1609704001758-682c89a4d8b3?q=80&w=2531&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'>"
@@ -189,7 +188,6 @@ ANOVA model.
 
 ``` r
 # look at the Q-Q plot to ensure normality
-# Before finalizing your report, always check the normality of the residuals.
 plot(anova.model, which = 2)
 ```
 
