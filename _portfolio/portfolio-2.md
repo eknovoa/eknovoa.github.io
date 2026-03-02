@@ -148,7 +148,7 @@ the ANOVA test.
 
 ## 2. Formal Hypotheses
 
-H<sub>o</sub>: $\mu$<sub>Houston</sub> = $\mu$<sub>Dallas</sub> = $\mu$<sub>Austin</sub> = $\mu$<sub>San Antonio</sub> (the four cities are equal in terms of mean price)
+H<sub>o</sub>: µ<sub>Houston</sub> = µ<sub>Dallas</sub> = µ<sub>Austin</sub> = µ<sub>San Antonio</sub> (the four cities are equal in terms of mean price)
 
 H<sub>a</sub>: at least one mean price for one of the cities is different than
 the other cities
