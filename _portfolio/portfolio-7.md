@@ -1,35 +1,25 @@
 ---
-title: "Amazon Sales Data Analysis"
-excerpt: "<img src='https://images.unsplash.com/photo-1649734926695-1b1664e98842?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb'>"
+title: "Healthcare Data Analysis"
+excerpt: "<img src='https://images.unsplash.com/photo-1505751172876-fa1923c5c528?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600'>"
 collection: portfolio
 ---
 
+**Goal**
 
-**Project 1: Analyze Amazon Sales Data**
+My intention behind this project was to practice importing data in Jupyter Notebook with the Python Library, Pandas, and conduct an analysis based on the dataset from Kaggle using Python and the following libraries: Pandas, NumPy, and Matplotlib.
 
-**Project Overview**
+**Process**
 
-In this SQL project from [InterviewMaster.ai](https://www.interviewmaster.ai/content/sql/projects/level1projects), I practiced creating a database and a table using __pgAdmin 4__ and imported a csv file. I then viewed the data and had to clean several columns of data. After the data was ready to work with, I began analyzing real-world e-commerce sales data to uncover basic trends and performance metrics. I used foundational SQL skills to summarize and clean the dataset.
+I imported the dataset from Kaggle using Pandas, then I reviewed the data to better understand what the raw data meant. Then I cleaned the data, analyzed it, created a few visualizations, and wrote actionable insights.
 
-Data Source: Kaggle Dataset, found [here](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data)
+**Insights**
+
+I did find some actionable insights based on this data, such as:
+
+- Penicillin is the most commonly prescribed medicine and would be critical that hospitals make sure they have plenty of this drug in supply.
+- Females also have a higher percent chance of developing obesity and cancer according to this dataset. Having research studies and treatment plans for women separate from men would be beneficial.
+
+These are just a few of the insights. I have more listed in the full report.
 
 
-**Learning Objectives**
-
-- Practice writing basic SQL queries using SELECT, FROM, and WHERE
-- Practice cleaning and filtering data
-- Aggregate and summarize data using common SQL functions
-- Gain confidence exploring real-world datasets with simple analysis
-
-**Practice Questions**
-
-- How many total rows (sales records) are in the dataset?
-- What is the total revenue generated across all sales?
-- Which product category had the highest total quantity sold?
-- What is the average sales amount per transaction?
-- How many unique SKUs were sold?
-- What are the top 5 most sold SKUs based on quantity?
-- Which month had the highest total sales revenue?
-- How many sales were B2B transactions vs non-B2B?
-- Which fulfillment method was used most frequently?
-- How many sales were made for each product size?
+See full project on [GitHub](https://github.com/eknovoa/python-data-analysis/blob/main/Healthcare%20Data%20Analysis.ipynb).

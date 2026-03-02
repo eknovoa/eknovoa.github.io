@@ -17,7 +17,7 @@ Data Source: `txhousing` dataset built in `ggplot2` package in RStudio
 - Linear Regression Model Analysis
 - Model Validity
 
-You can also view full project on my [GitHub](https://github.com/eknovoa/analysis_projects_in_R/blob/main/TXHousing_Regression.pdf).
+You can also view the pdf of this project on my [GitHub](https://github.com/eknovoa/analysis_projects_in_R/blob/main/TXHousing_Regression.pdf).
 
 ---
 
