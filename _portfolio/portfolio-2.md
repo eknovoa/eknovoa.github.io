@@ -127,7 +127,7 @@ both highly sensitive to extreme values.
 boxplot(txhousing.major.cities$median, horizontal = TRUE)
 ```
 
-![](MarketComparison_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+<img width="1400" height="865" alt="boxplot1" src="https://github.com/user-attachments/assets/b1a03d5b-4f65-4e6f-9353-afd9fc4fb54d" />
 
 ``` r
 txhousing.major.cities[txhousing.major.cities$median > 260000, ]
@@ -191,7 +191,8 @@ ANOVA model.
 plot(anova.model, which = 2)
 ```
 
-![](MarketComparison_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
+<img width="1400" height="865" alt="QQplot" src="https://github.com/user-attachments/assets/c0867604-fada-44c2-a1c5-165e122e203e" />
+
 
 The points seem to fall roughly along a straight, diagonal line which
 indicates that the residuals are normally distributed which is a core
@@ -232,7 +233,7 @@ par(mar = c(5, 6, 4, 2) + 3.0)
 plot(tukey.results, las = 1, col = "blue")
 ```
 
-![](MarketComparison_files/figure-gfm/unnamed-chunk-9-1.png)<!-- -->
+<img width="1400" height="865" alt="Tukeyplot" src="https://github.com/user-attachments/assets/1ef1cc0a-01a1-4c9c-99a3-bf2aca85ad7c" />
 
 The vertical axes of this plot lists the city pairs (e.g.,
 `Austin-Dallas`), and the horizontal axis shows the difference in median
@@ -284,4 +285,5 @@ ggplot(txhousing.major.cities, aes(x = city, y = median, fill = city)) +
   scale_fill_brewer(palette = "Dark2")
 ```
 
-![](MarketComparison_files/figure-gfm/unnamed-chunk-10-1.png)<!-- -->
+<img width="1400" height="865" alt="boxplotSet" src="https://github.com/user-attachments/assets/2f78a87d-19e6-443a-83ec-5e248b7fb0bc" />
+
