@@ -13,6 +13,7 @@ In this SQL project from [InterviewMaster.ai](https://www.interviewmaster.ai/con
 
 Data Source: Kaggle Dataset, found [here](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data)
 
+You can view the full project [here](https://github.com/eknovoa/SQL/tree/main/amazon_sales_analysis).
 
 **Learning Objectives**
 
