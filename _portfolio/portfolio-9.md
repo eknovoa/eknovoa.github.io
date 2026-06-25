@@ -15,7 +15,7 @@ You can view the full project [here](https://github.com/eknovoa/SQL/blob/main/co
 
 **About the Data**
 
-Number of Rows: 10,000
+Number of Rows: 10,000</br>
 Number of Columns: 8
 
 The dataset contains synthetic data representing sales transactions in a cafe. This dataset is intentionally "dirty," with missing values, inconsistent data, and errors introduced to provide a realistic scenario for data cleaning and exploratory data analysis (EDA).
