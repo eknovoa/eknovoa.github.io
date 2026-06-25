@@ -12,7 +12,8 @@ Data Source: Kaggle Dataset, found [here](https://www.kaggle.com/datasets/ahmedm
 
 You can view the full project [here](https://github.com/eknovoa/SQL/blob/main/coffee_sales_project.sql).
 
-
+<br>
+<br>
 **About the Data**
 
 Number of Rows: 10,000</br>
