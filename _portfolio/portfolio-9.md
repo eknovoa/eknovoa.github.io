@@ -69,5 +69,5 @@ The dataset contains synthetic data representing sales transactions in a cafe. T
 
 
 **Future Ideas**
-- Next time I would create an additional column to calculate the total_spent (price_per_unit * quantity) to verify that it was eaqual to the total_spent column calculation.
-- While cleaning the data I noticed the location column was a categorical variable with two values, so I recognized it could be encoded as a single binary column — take_out (1 = take-out, 0 = in-store) — to be used as a feature in a future regression or ML model.
+- Next time I would create an additional column to calculate the total_spent (price_per_unit * quantity) to verify that it was equal to the 'total_spent' column calculation.
+- While cleaning the data I noticed the 'location' column was a categorical variable with two values, so I recognized it could be encoded as a single binary column — take_out (1 = take-out, 0 = in-store) — to be used as a feature in a future regression or ML model.
