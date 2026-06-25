@@ -16,7 +16,7 @@ You can view the full project [here](https://github.com/eknovoa/SQL/blob/main/co
 
 - Practice DDL (Data Definition Language) SQL commands: CREATE and ALTER
 - Practice DML (Data Manipulation Language) SQL commands: COPY and UPDATE
-- Practice DQL (Data Query Language) SQL commands: SELECT, FROM, WHERE, GROUPBY, HAVING, DISTINCT, ORDERBY, LIMIT, CTEs, and Window Functions
+- Practice DQL (Data Query Language) SQL commands: SELECT, FROM, WHERE, GROUP BY, HAVING, DISTINCT, ORDER BY, LIMIT, CTEs, and Window Functions
 
 **Cleaning Tasks**
 
