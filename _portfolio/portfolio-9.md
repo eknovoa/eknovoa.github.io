@@ -1,11 +1,8 @@
 ---
 title: "Coffee Sales Data Cleaning & Exploration Project"
-excerpt: "<img src='https://unsplash.com/photos/three-person-holding-beverage-cups-6VhPY27jdps'>"
+excerpt: "<img src='https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'>"
 collection: portfolio
 ---
-
-
-**Project 1: Coffee Sales Data Cleaning and Exploration Project**
 
 **Project Overview**
 
