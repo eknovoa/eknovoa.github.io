@@ -67,3 +67,7 @@ The dataset contains synthetic data representing sales transactions in a cafe. T
 - What were the most popular items? Display their ranks.
 - What was the total sales by month? Compare to the rolling 3-month average of sales to smooth out data spikes.
 
+
+**Future Ideas**
+- Next time I would create an additional column to calculate the total_spent (price_per_unit * quantity) to verify that it was eaqual to the total_spent column calculation.
+- While cleaning the data I noticed the location column was a categorical variable with two values, so I recognized it could be encoded as a single binary column — take_out (1 = take-out, 0 = in-store) — to be used as a feature in a future regression or ML model.
