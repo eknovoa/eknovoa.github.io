@@ -33,7 +33,7 @@ You can view the full project [here](https://github.com/eknovoa/SQL/blob/main/co
 
 **Practice Questions**
 
-- Which transactions were equal to the highest amount spent?
+- Which transactions with the total amount spent were equivalent to the highest amount spent across all transactions?
 - What is the most common payment method used at the cafe?
 - Which month had the highest sales?
 - Were there more takeaway orders or in-store?
