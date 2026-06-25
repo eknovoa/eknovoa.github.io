@@ -12,6 +12,26 @@ Data Source: Kaggle Dataset, found [here](https://www.kaggle.com/datasets/ahmedm
 
 You can view the full project [here](https://github.com/eknovoa/SQL/blob/main/coffee_sales_project.sql).
 
+
+**About the Data**
+
+Number of Rows: 10,000
+Number of Columns: 8
+
+The dataset contains synthetic data representing sales transactions in a cafe. This dataset is intentionally "dirty," with missing values, inconsistent data, and errors introduced to provide a realistic scenario for data cleaning and exploratory data analysis (EDA).
+
+| Column Name      | Description                            |
+| ---------------- | -------------------------------------- |
+| transaction_id   | unique identifier for each transaction |
+| item             | name of item purchased                 |
+| quantity         | quantity of item purchased             |
+| price_per_unit   | price of a single unit of the item     |
+| total_spent      | total amount spent on transaction      |
+| payment_method   | the method of payment used             |
+| location         | location where transaction occurred    |
+| transaction_date | the date of the transaction            |
+
+
 **Learning Objectives**
 
 - Practice DDL (Data Definition Language) SQL commands: CREATE and ALTER
