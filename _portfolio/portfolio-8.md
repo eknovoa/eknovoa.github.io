@@ -5,8 +5,6 @@ collection: portfolio
 ---
 
 
-**Project 1: Analyze Amazon Sales Data**
-
 **Project Overview**
 
 In this SQL project from [InterviewMaster.ai](https://www.interviewmaster.ai/content/sql/projects/level1projects), I practiced creating a database and a table using __pgAdmin 4__ and imported a csv file. I then viewed the data and had to clean several columns of data. After the data was ready to work with, I began analyzing real-world e-commerce sales data to uncover basic trends and performance metrics. I used foundational SQL skills to summarize and clean the dataset.
